@@ -1,1 +1,1 @@
-# HOA14.1
+# OpenStack Installation (Keystone, Glance, Nova)
